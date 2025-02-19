@@ -1,0 +1,57 @@
+@media (max-width: 711px) {
+    header {
+      padding: 9px 38px;
+    }
+    .burger-menu {
+      display: block;
+    }
+    .header-nav-list {
+      display: none;
+    }
+    .section1 h2 {
+      font-size: 32px;
+      line-height: 40px;
+    }
+    .section1 button {
+      width: 170px;
+      height: 50px;
+      font-size: 20px;
+      line-height: 28px;
+    }
+    .section2 {
+      padding-inline: 38px;
+    }
+    .section2 article {
+      flex: 1 0 260px;
+    }
+    .section3 {
+      padding-inline: 38px;
+    }
+    .none710 {
+      display: none;
+    }
+    .card-container {
+      flex: 1 1 50%;
+    }
+    footer {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .footer-ul {
+      text-align: center;
+    }
+    .info_section_text_content {
+      display: none;
+    }
+    .footer-nav-left {
+      margin-bottom: 48px;
+    }
+    .footer-logo {
+      margin-bottom: 48px;
+    }
+    .contact-info {
+      gap: 24px;
+      display: flex;
+    }
+  }
